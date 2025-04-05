@@ -1,0 +1,141 @@
+Entreprises,Score RSE,Indicateur,Score,Thème RSE
+Entreprise_1,65.9,Éthique,67,Gouvernance
+Entreprise_2,68.6,Éthique,86,Gouvernance
+Entreprise_3,74.8,Éthique,99,Gouvernance
+Entreprise_4,68.2,Éthique,46,Gouvernance
+Entreprise_5,76.9,Éthique,83,Gouvernance
+Entreprise_6,66.5,Éthique,47,Gouvernance
+Entreprise_7,71.1,Éthique,86,Gouvernance
+Entreprise_8,68.2,Éthique,74,Gouvernance
+Entreprise_9,68.7,Éthique,53,Gouvernance
+Entreprise_10,67.8,Éthique,56,Gouvernance
+Entreprise_11,71.4,Éthique,75,Gouvernance
+Entreprise_12,73.3,Éthique,89,Gouvernance
+Entreprise_13,70.2,Éthique,79,Gouvernance
+Entreprise_14,72.6,Éthique,43,Gouvernance
+Entreprise_15,73.3,Éthique,41,Gouvernance
+Entreprise_16,67.3,Éthique,45,Gouvernance
+Entreprise_17,74.2,Éthique,93,Gouvernance
+Entreprise_18,72.7,Éthique,81,Gouvernance
+Entreprise_19,61.2,Éthique,43,Gouvernance
+Entreprise_20,66.9,Éthique,93,Gouvernance
+Entreprise_1,65.9,Égalité H/F,57,Social
+Entreprise_2,68.6,Égalité H/F,86,Social
+Entreprise_3,74.8,Égalité H/F,92,Social
+Entreprise_4,68.2,Égalité H/F,63,Social
+Entreprise_5,76.9,Égalité H/F,65,Social
+Entreprise_6,66.5,Égalité H/F,64,Social
+Entreprise_7,71.1,Égalité H/F,99,Social
+Entreprise_8,68.2,Égalité H/F,99,Social
+Entreprise_9,68.7,Égalité H/F,99,Social
+Entreprise_10,67.8,Égalité H/F,84,Social
+Entreprise_11,71.4,Égalité H/F,80,Social
+Entreprise_12,73.3,Égalité H/F,68,Social
+Entreprise_13,70.2,Égalité H/F,54,Social
+Entreprise_14,72.6,Égalité H/F,84,Social
+Entreprise_15,73.3,Égalité H/F,40,Social
+Entreprise_16,67.3,Égalité H/F,64,Social
+Entreprise_17,74.2,Égalité H/F,46,Social
+Entreprise_18,72.7,Égalité H/F,48,Social
+Entreprise_19,61.2,Égalité H/F,63,Social
+Entreprise_20,66.9,Égalité H/F,40,Social
+Entreprise_1,65.9,Bien-être au travail,83,Social
+Entreprise_2,68.6,Bien-être au travail,47,Social
+Entreprise_3,74.8,Bien-être au travail,63,Social
+Entreprise_4,68.2,Bien-être au travail,50,Social
+Entreprise_5,76.9,Bien-être au travail,90,Social
+Entreprise_6,66.5,Bien-être au travail,56,Social
+Entreprise_7,71.1,Bien-être au travail,47,Social
+Entreprise_8,68.2,Bien-être au travail,74,Social
+Entreprise_9,68.7,Bien-être au travail,74,Social
+Entreprise_10,67.8,Bien-être au travail,72,Social
+Entreprise_11,71.4,Bien-être au travail,98,Social
+Entreprise_12,73.3,Bien-être au travail,44,Social
+Entreprise_13,70.2,Bien-être au travail,81,Social
+Entreprise_14,72.6,Bien-être au travail,78,Social
+Entreprise_15,73.3,Bien-être au travail,97,Social
+Entreprise_16,67.3,Bien-être au travail,80,Social
+Entreprise_17,74.2,Bien-être au travail,67,Social
+Entreprise_18,72.7,Bien-être au travail,46,Social
+Entreprise_19,61.2,Bien-être au travail,48,Social
+Entreprise_20,66.9,Bien-être au travail,47,Social
+Entreprise_1,65.9,Formation,51,Social
+Entreprise_2,68.6,Formation,73,Social
+Entreprise_3,74.8,Formation,72,Social
+Entreprise_4,68.2,Formation,87,Social
+Entreprise_5,76.9,Formation,94,Social
+Entreprise_6,66.5,Formation,62,Social
+Entreprise_7,71.1,Formation,63,Social
+Entreprise_8,68.2,Formation,76,Social
+Entreprise_9,68.7,Formation,74,Social
+Entreprise_10,67.8,Formation,83,Social
+Entreprise_11,71.4,Formation,79,Social
+Entreprise_12,73.3,Formation,61,Social
+Entreprise_13,70.2,Formation,66,Social
+Entreprise_14,72.6,Formation,74,Social
+Entreprise_15,73.3,Formation,40,Social
+Entreprise_16,67.3,Formation,74,Social
+Entreprise_17,74.2,Formation,76,Social
+Entreprise_18,72.7,Formation,86,Social
+Entreprise_19,61.2,Formation,53,Social
+Entreprise_20,66.9,Formation,42,Social
+Entreprise_1,65.9,Empreinte carbone,40,Environnement
+Entreprise_2,68.6,Empreinte carbone,44,Environnement
+Entreprise_3,74.8,Empreinte carbone,65,Environnement
+Entreprise_4,68.2,Empreinte carbone,94,Environnement
+Entreprise_5,76.9,Empreinte carbone,53,Environnement
+Entreprise_6,66.5,Empreinte carbone,78,Environnement
+Entreprise_7,71.1,Empreinte carbone,66,Environnement
+Entreprise_8,68.2,Empreinte carbone,48,Environnement
+Entreprise_9,68.7,Empreinte carbone,54,Environnement
+Entreprise_10,67.8,Empreinte carbone,54,Environnement
+Entreprise_11,71.4,Empreinte carbone,65,Environnement
+Entreprise_12,73.3,Empreinte carbone,81,Environnement
+Entreprise_13,70.2,Empreinte carbone,99,Environnement
+Entreprise_14,72.6,Empreinte carbone,52,Environnement
+Entreprise_15,73.3,Empreinte carbone,90,Environnement
+Entreprise_16,67.3,Empreinte carbone,71,Environnement
+Entreprise_17,74.2,Empreinte carbone,78,Environnement
+Entreprise_18,72.7,Empreinte carbone,88,Environnement
+Entreprise_19,61.2,Empreinte carbone,91,Environnement
+Entreprise_20,66.9,Empreinte carbone,71,Environnement
+Entreprise_1,65.9,Gestion des déchets,43,Environnement
+Entreprise_2,68.6,Gestion des déchets,69,Environnement
+Entreprise_3,74.8,Gestion des déchets,76,Environnement
+Entreprise_4,68.2,Gestion des déchets,62,Environnement
+Entreprise_5,76.9,Gestion des déchets,78,Environnement
+Entreprise_6,66.5,Gestion des déchets,84,Environnement
+Entreprise_7,71.1,Gestion des déchets,54,Environnement
+Entreprise_8,68.2,Gestion des déchets,82,Environnement
+Entreprise_9,68.7,Gestion des déchets,68,Environnement
+Entreprise_10,67.8,Gestion des déchets,75,Environnement
+Entreprise_11,71.4,Gestion des déchets,52,Environnement
+Entreprise_12,73.3,Gestion des déchets,71,Environnement
+Entreprise_13,70.2,Gestion des déchets,46,Environnement
+Entreprise_14,72.6,Gestion des déchets,98,Environnement
+Entreprise_15,73.3,Gestion des déchets,90,Environnement
+Entreprise_16,67.3,Gestion des déchets,61,Environnement
+Entreprise_17,74.2,Gestion des déchets,67,Environnement
+Entreprise_18,72.7,Gestion des déchets,41,Environnement
+Entreprise_19,61.2,Gestion des déchets,81,Environnement
+Entreprise_20,66.9,Gestion des déchets,84,Environnement
+Entreprise_1,65.9,Énergie renouvelable,96,Environnement
+Entreprise_2,68.6,Énergie renouvelable,92,Environnement
+Entreprise_3,74.8,Énergie renouvelable,45,Environnement
+Entreprise_4,68.2,Énergie renouvelable,67,Environnement
+Entreprise_5,76.9,Énergie renouvelable,67,Environnement
+Entreprise_6,66.5,Énergie renouvelable,83,Environnement
+Entreprise_7,71.1,Énergie renouvelable,83,Environnement
+Entreprise_8,68.2,Énergie renouvelable,59,Environnement
+Entreprise_9,68.7,Énergie renouvelable,69,Environnement
+Entreprise_10,67.8,Énergie renouvelable,50,Environnement
+Entreprise_11,71.4,Énergie renouvelable,97,Environnement
+Entreprise_12,73.3,Énergie renouvelable,94,Environnement
+Entreprise_13,70.2,Énergie renouvelable,67,Environnement
+Entreprise_14,72.6,Énergie renouvelable,64,Environnement
+Entreprise_15,73.3,Énergie renouvelable,78,Environnement
+Entreprise_16,67.3,Énergie renouvelable,72,Environnement
+Entreprise_17,74.2,Énergie renouvelable,40,Environnement
+Entreprise_18,72.7,Énergie renouvelable,96,Environnement
+Entreprise_19,61.2,Énergie renouvelable,66,Environnement
+Entreprise_20,66.9,Énergie renouvelable,96,Environnement
